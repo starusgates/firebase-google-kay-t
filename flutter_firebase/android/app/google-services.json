@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885795244151",
+    "project_id": "fire-ilk-proje",
+    "storage_bucket": "fire-ilk-proje.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885795244151:android:b1ccad8413173dc7781e72",
+        "android_client_info": {
+          "package_name": "com.yldzbilgin.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885795244151-ou7dn6kf95jc2shdqsec2eibtn95ogmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ7eg0cxOWMsEeOVKCNRF9LoY9O-17D6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885795244151-ou7dn6kf95jc2shdqsec2eibtn95ogmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
